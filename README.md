@@ -1,6 +1,6 @@
-<h3 align="center"> Hello there! :wave: </h3>
+<h4 align="center"> Hello there! :wave: </h4>
 
-<h3 align="center"> I'm Andre. Welcome to my GitHub profile! </h3>
+<h4 align="center"> I'm Andre. Welcome to my GitHub profile! </h4>
 
 <br>
 
