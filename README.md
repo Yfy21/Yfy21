@@ -4,13 +4,11 @@
 
 <br>
 
-I'm a sociology master's student at the [University of São Paulo (USP)](https://www5.usp.br/), fascinated by the interactions between biology, psychology and sociology in explaining human behavior. In fact, I am currently working on an holistic approach to make sense of how we become humans.
-
-Seldom have I remained in the confines of disciplines and, in one of my many excursions outside of sociology, I have grown fond of data science. On the long run, my goal is to combine my knowledge of the human being with AI systems' building. But there is still a long way to go, so any opportunity to learn is welcome!
+I'm a sociology master's student at the [University of São Paulo (USP)](https://www5.usp.br/) and a data enthusiast determined to promote a data-driven culture within organizations and society at large. I am thoroughly motivated to help people make the best decisions they can, which is only possible with adequate, actionable information. Therefore, believing in efficiency, organization, and in people's capacity to make good decisions when properly informed, my goal is to help streamline processes that ensure that stakeholders are provided with the most relevant data when confronted with the necessity to take action.
 
 ---
 :computer: Learning data science at [Datacamp](https://datacamp.com)<br>
-:satellite: Currently searching for a job
+:satellite: Currently searching for a data science/analysis job
 
 <!--
 **Yfy21/Yfy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
