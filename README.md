@@ -1,25 +1,14 @@
-<h1> :wave: Hello there! I'm Andre.</h1>
+<h1> :wave: Olá! Eu sou o André.</h1>
 
-<h3>  Welcome to my GitHub profile! </h3>
+<h3>  Seja bem-vindo(a) ao meu perfil do GitHub! </h3>
 
-I’m a sociologist turned data analyst focused on helping people make the best possible decisions for their organizations and, ideally, for society as a whole.
-<br>
-<br>
-My academic background in the social sciences gave me a strong foundation in philosophy, politics, society, and human behavior, but I've realized it lacked the quantitative tools needed to fully understand and act on complex issues. Believing that reliable, well-organized information is essential for cooperation, problem-solving, and impactful action — all key to social progress — I decided to complement my qualitative expertise with strong quantitative skills by studying data analytics and data science.
-<br>
-<br>
-Three years later, here I am.
+Sou um profissional especializado no tratamento e na análise de dados com vistas à tomada de decisões baseadas em evidências. Sou proficiente em Python, SQL, Power BI e Excel e, com eles, automatizo pipelines de extração, limpeza e manipulação de dados e desenvolvo relatórios e dashboards que permitem aos stakeholders tomar decisões mais rápidas e bem informadas.
 
-<h4>What I Do:</h4>
+Mais do que dominar noções estatísticas e ferramentas de análise de dados, dedico-me intensamente à garantia da qualidade das bases de dados, envolvidas aí sua otimização para consultas, a consistência dos dados e uma modelagem que poupe recursos computacionais e de armazenamento. Além disso, devido à minha experiência docente, destaco-me na tradução de análises complexas em recomendações acionáveis para equipes não-técnicas.
 
-- Automate data pipelines (ETL/ELT) to ensure clean, accurate, and ready-to-use datasets.
-- Build clear, interactive dashboards and visualizations in Power BI, Excel, and Python.
-- Extract insights using SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), and statistical methods.
-- Translate complex analyses into actionable recommendations for non-technical audiences.
+Atualmente, curso pós-graduação em Data Analytics pela FIAP e busco me inserir na área de Business Intelligence ou de Analytics de alguma empresa. Meu objetivo é lidar com conjuntos de dados maiores e mais complexos que testem minhas habilidades e me permitam crescer profissionalmente. Até lá, também sigo aberto a propostas de trabalho autônomo.
 
-<h4>What You'll Find:</h4>
-
-Projects ranging from automation scripts and data cleaning workflows to interactive dashboards and statistical analyses — all reflecting my commitment to clarity, organization, and real-world applicability.
+Tornei-me analista de dados por acreditar no poder da tomada de decisões baseadas em evidências e por querer fortalecer e difundir essa cultura em nossa sociedade, tanto no setor público como no privado. Comunicativo, tendo a orbitar naturalmente funções que envolvem o trabalho em equipe e a comunicação direta com stakeholders.
 <!--
 **Yfy21/Yfy21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
